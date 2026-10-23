@@ -1,2 +1,0 @@
-it is 2.txt file
-this is also changed due to some reason
